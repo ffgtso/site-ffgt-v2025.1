@@ -1,0 +1,13 @@
+GLUON_SITE_FEEDS="community ffac ffgt"
+
+PACKAGES_COMMUNITY_REPO=https://github.com/freifunk-gluon/community-packages.git
+PACKAGES_COMMUNITY_COMMIT=4a90cd221e8eba254ffc8dc5addbf3374b830415
+PACKAGES_COMMUNITY_BRANCH=master
+
+PACKAGES_FFAC_REPO=https://github.com/ffac/gluon-packages.git
+PACKAGES_FFAC_COMMIT=c66e741cc08800e53887cf05c7b4e3dc9b8c84f6
+PACKAGES_FFAC_BRANCH=main
+
+PACKAGES_FFGT_REPO=https://github.com/ffgtso/ffgt_packages-v2023.x.git
+PACKAGES_FFGT_COMMIT=da8f398cf8784442868d63e4c37217e5e8c9fb1c
+PACKAGES_FFGT_BRANCH=master
