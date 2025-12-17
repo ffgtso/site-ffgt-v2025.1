@@ -19,7 +19,6 @@ packages {
     'iwinfo',
     'ffac-ssid-changer',
     'respondd-module-airtime',
-    'ffac-mt7915-hotfix',
 	'ffgt-name-conformizer',
 	'ffgt-banner',
 	'ffgt-config-mode-wizard',
@@ -30,7 +29,9 @@ packages {
 	'gluon-radv-filterd',
 	'gluon-web-logging',
 	'ffac-autoupdater-wifi-fallback',
-	'gluon-multi-radio',
+    'tecff-general-workaround',
+    'tecff-broken-wlan-workaround',
+    'gluon-multi-radio',
 	'ffX-migrate-to-4830',
 	'ffgt-eol-device',
 	'ffda-node-whisperer'
